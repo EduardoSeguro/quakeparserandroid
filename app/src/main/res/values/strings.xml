@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quake Parser App</string>
+    <string name="title">Quake Log Parser</string>
+    <string name="load_log_button">Load log</string>
+    <string name="invalid_log_file">Invalid log file</string>
+    <string name="invalid_log_file_title">Error</string>
+    <string name="ok">OK</string>
+</resources>
